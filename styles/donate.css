@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+}
+/* Header Styles */
+
+.header-content{
+    background-image: url(../images/donation6.jpg);
+    padding: 175px 308px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+
+}
+.header-title,.header-sub-title{
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header-description{
+    color: #fff;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin: 20px;
+}
+.btn-primary{
+    color: #fff;
+    font-size: 28px;
+    font-weight: 400;
+    font-family: serif;
+    background-color: #e74c3c;
+    border: 0;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+/* Donate Today */
+
+
+.donate-today{
+    margin-top: 35px;
+   
+    text-align: center;
+}
+.donates{
+    display: flex;
+    gap: 5px;
+    padding-left: 450px;
+    
+    
+}
+.donate-items{
+    color: #181818;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 30px 20px;
+    width: 135px;
+    height: 123px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+}
+
+
+
+.today-title{
+    font-size: 45px;
+    font-weight: 400px;
+    margin-top: 200px;
+    margin-bottom: 60px;
+}
+.today-description{
+    font-weight: 400;
+    font-size: 18px;
+    color: #707070;
+    margin-top: 20px;
+   
+}
+.amount{
+    color: #B3B3B3;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-bottom: 5px;
+
+}
+/* Our Donation Plan */
+
+
+.items h2 {
+    color: #181818;
+    font-size: 28px;
+    font-weight: 400px;
+
+}
+
+.plan-itmes{
+    display: flex;
+    gap: 24px;
+    
+    margin: 20px 220px;
+}
+
+.items p{
+    color:#707070;
+    font-weight: 400;
+    font-size: 16px;
+}
+.plan-title{
+    color: #181818;
+    font-size: 45px;
+    font-weight: 400px;
+    text-align: center;
+    margin-top: 130px;
+    margin-bottom: 50px;
+}
+
+.plan-description{
+    color: #707070;
+    font-size: 18px;
+    font-weight: 400px;
+    text-align: center;
+    padding: 20px 350px;
+}
+
+.items-two{
+    background-color: #27ae60;
+    margin-top: 50px;
+    padding: 100px 54px 23px;
+}
+
+.items-one{
+    background-color:#3498db;
+    margin-top: 50px;
+    padding: 100px 22px 54px 23px;
+}
+.items-three{
+    background-color: #1abc9c;
+    margin-top: 50px;
+    padding: 100px 22px 54px 23px;
+
+}
+
+.plan-itmes img{
+    margin-top: 10px;
+}
+.plan-itmes h2{
+    font-size: 24px;
+    font-weight: 400px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+.plan-itmes p{
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #fff;
+
+}
